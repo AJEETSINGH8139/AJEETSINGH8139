@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Ajeet Singh.
-- 🌱 I am working in Brudite Pvt. Ltd. as a Associate Software Engineer. 
-- 👀 I’m interested in Web development (MERN).
+- I am working as a software engineer in SkillBrew.AI.
+- I am interested in Web development (MERN).
 
-- 📫 You can reach me via Email- ajeetsingh8139@gmail.com or LinkedIn- https://www.linkedin.com/in/ajeet-singh-6372631a1/ . 
+- You can reach me via Email- ajeetsingh8139@gmail.com or LinkedIn- https://www.linkedin.com/in/ajeet-singh-6372631a1/ . 
 
 <!---
 AJEETSINGH8139/AJEETSINGH8139 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
